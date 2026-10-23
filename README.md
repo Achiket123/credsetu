@@ -37,3 +37,20 @@ npx expo run
 cd credsetu_frontend
 npx expo start --web
 ```
+
+## Demo
+[🎥 Watch Demo Video](https://drive.google.com/file/d/1oKzs0TE2rV07zDj97IhXi8vUld5bx4g7/view?usp=sharing)
+
+PHOTOS
+<img width="720" height="1570" alt="image" src="https://github.com/user-attachments/assets/c819d85e-4329-445e-b4fa-07af2cea771c" />
+<img width="720" height="1570" alt="image" src="https://github.com/user-attachments/assets/df51a15f-5819-4432-862d-715529c64351" />
+<img width="720" height="1570" alt="image" src="https://github.com/user-attachments/assets/9f58dafb-266c-4ff7-8bd7-0c6b2e65fd88" />
+<img width="720" height="1570" alt="image" src="https://github.com/user-attachments/assets/bb8819c8-81f1-4050-b3f3-b23cb0dbe7ce" />
+<img width="720" height="1570" alt="image" src="https://github.com/user-attachments/assets/6d8babe6-7f2c-4a2b-bdbb-5239a29eff03" />
+<img width="720" height="1570" alt="image" src="https://github.com/user-attachments/assets/c5667a3d-e104-4d75-ba4c-9a4dcc923ea8" />
+
+
+
+
+
+
