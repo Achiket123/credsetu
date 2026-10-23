@@ -39,7 +39,7 @@ async function startServer() {
     } catch (error) {
         console.error('Failed to initialize database, running server anyway with error logging:', error);
         app.listen(PORT, () => {
-            console.log(`⚠️ Credsetu server listening on port ${PORT} (Database pending connection)`);
+            console.log(`Credsetu server listening on port ${PORT} (Database pending connection)`);
         });
     }
 }
